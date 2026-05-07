@@ -1,6 +1,8 @@
 # ignore temporary file
 temp.py
 
+# ignore local machine environments
+.env
 # ignore python virtual environments
 venv/
 .venv/
