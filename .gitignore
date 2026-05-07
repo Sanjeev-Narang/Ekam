@@ -10,3 +10,6 @@ env/
 
 # ignore code output file
 epg_content.html
+
+# ignore outputs
+output/
