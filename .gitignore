@@ -1,5 +1,5 @@
 # ignore temporary file
-temp.py
+temp/
 
 # ignore local machine environments
 .env
