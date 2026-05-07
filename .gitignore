@@ -1,0 +1,10 @@
+# ignore temporary file
+temp.py
+
+# ignore python virtual environments
+venv/
+.venv/
+env/
+
+# ignore code output file
+epg_content.html
